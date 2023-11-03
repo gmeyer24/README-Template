@@ -38,7 +38,6 @@
 <h3 align="center">project_title</h3>
 
   <p align="center">
-    project_description
     <br />
     <a href="https://github.com/gmeyer24/repo_name"><strong>Explore the docs »</strong></a>
     <br />
@@ -84,6 +83,7 @@
 <!-- ABOUT THE PROJECT -->
 ## Description
 <!-- Enter Description Below -->
+project_description
 
 [![project_title Deployed Link][product-screenshot]](https://gmeyer24.github.io/repo_name)
 
