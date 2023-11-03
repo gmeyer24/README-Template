@@ -85,7 +85,7 @@
 ## Description
 <!-- Enter Description Below -->
 
-[![Product Name Deployed Link][product-screenshot]](https://example.com)
+[![project_title Deployed Link][product-screenshot]](https://gmeyer24.github.io/repo_name)
 
 Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `gmeyer24`, `repo_name`, `gavinpmeyer`, `gmail`, `gpmeyer24`, `project_title`, `project_description`
 
