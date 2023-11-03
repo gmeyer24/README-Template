@@ -83,6 +83,7 @@
 
 <!-- ABOUT THE PROJECT -->
 ## Description
+<!-- Enter Description Below -->
 
 [![Product Name Deployed Link][product-screenshot]](https://example.com)
 
