@@ -104,6 +104,7 @@ Here's a blank template to get started: To avoid retyping too much info. Do a se
 * [![Bootstrap][Bootstrap.com]][Bootstrap-url]
 * [![JQuery][JQuery.com]][JQuery-url]
 * [![JavaScript][JavaScript.com]][JavaScript-url]
+* [![node.js][node.js.org]][node.js-url]
 
 <p align="right">(<a href="#readme-top">Back To Top</a>)</p>
 
@@ -198,7 +199,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Gavin Meyer - gpmeyer24@gmail.com - GitHub: gmeyer24
+Gavin Meyer | Email: gpmeyer24@gmail.com | GitHub: gmeyer24
 
 Project Link: [https://github.com/gmeyer24/repo_name](https://github.com/gmeyer24/repo_name)
 
@@ -255,4 +256,5 @@ Deployed Link: [https://gmeyer24.github.io/repo_name](https://gmeyer24.github.io
 [JQuery-url]: https://jquery.com 
 [JavaScript.com]: https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E
 [JavaScript-url]: https://www.javascript.com/
-
+[node.js.org]: https://img.shields.io/badge/node.js-green.svg
+[node.js-url]: https://nodejs.org/en
