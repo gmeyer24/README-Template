@@ -105,6 +105,8 @@ Here's a blank template to get started: To avoid retyping too much info. Do a se
 * [![JQuery][JQuery.com]][JQuery-url]
 * [![JavaScript][JavaScript.com]][JavaScript-url]
 * [![node.js][node.js.org]][node.js-url]
+* [![Express.js][express.js.com]][express.js-url]
+* [![Render][render.com]][render-url]
 
 <p align="right">(<a href="#readme-top">Back To Top</a>)</p>
 
@@ -258,3 +260,8 @@ Deployed Link: [https://gmeyer24.github.io/repo_name](https://gmeyer24.github.io
 [JavaScript-url]: https://www.javascript.com/
 [node.js.org]: https://img.shields.io/badge/node.js-green.svg
 [node.js-url]: https://nodejs.org/en
+[express.js.com]: https://img.shields.io/badge/express.js-blue.svg
+[express.js-url]: https://expressjs.com/
+[render.com]: https://img.shields.io/badge/render-purple.svg
+[render-url]: https://render.com/
+
