@@ -87,6 +87,10 @@ project_description
 
 [![project_title Deployed Link][product-screenshot]](https://gmeyer24.github.io/repo_name)
 
+### Walkthrough Video Link
+
+[![Walktrhough Video](screen-shot)](link)
+
 Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `gmeyer24`, `repo_name`, `gavinpmeyer`, `gmail`, `gpmeyer24`, `project_title`, `project_description`
 
 <p align="right">(<a href="#readme-top">Back To Top</a>)</p>
@@ -107,6 +111,8 @@ Here's a blank template to get started: To avoid retyping too much info. Do a se
 * [![node.js][node.js.org]][node.js-url]
 * [![Express.js][express.js.com]][express.js-url]
 * [![Render][render.com]][render-url]
+* [![MongoDB][MongoDB.com]][MongoDB-url]
+* [![Mongoose][Mongoose.com]][Mongoose-url]
 
 <p align="right">(<a href="#readme-top">Back To Top</a>)</p>
 
@@ -262,6 +268,10 @@ Deployed Link: [https://gmeyer24.github.io/repo_name](https://gmeyer24.github.io
 [node.js-url]: https://nodejs.org/en
 [express.js.com]: https://img.shields.io/badge/express.js-blue.svg
 [express.js-url]: https://expressjs.com/
-[render.com]: https://img.shields.io/badge/render-purple.svg
+[render.com]: https://img.shields.io/badge/Render-purple.svg
 [render-url]: https://render.com/
+[MongoDB.com]: https://img.shields.io/badge/MongoDB-green.svg
+[MongoDB-url]: https://www.mongodb.com/
+[Mongoose.com]: https://img.shields.io/badge/Mongoose-red.svg
+[Mongoose-url]: https://mongoosejs.com/
 
