@@ -85,7 +85,7 @@
 <!-- Enter Description Below -->
 project_description
 
-[![project_title Deployed Link][product-screenshot]](https://gmeyer24.github.io/repo_name)
+[![project_title Deployed Link](product-screenshot)](https://gmeyer24.github.io/repo_name)
 
 ### Walkthrough Video Link
 
@@ -113,6 +113,9 @@ Here's a blank template to get started: To avoid retyping too much info. Do a se
 * [![Render][render.com]][render-url]
 * [![MongoDB][MongoDB.com]][MongoDB-url]
 * [![Mongoose][Mongoose.com]][Mongoose-url]
+* [![Netlify][Netlify.com]][Netlify-url]
+* [![Font Awesome][fontawesome.com]][fontawesome-url]
+* [![Vite][Vite.dev]][Vite-url]
 
 <p align="right">(<a href="#readme-top">Back To Top</a>)</p>
 
@@ -274,4 +277,9 @@ Deployed Link: [https://gmeyer24.github.io/repo_name](https://gmeyer24.github.io
 [MongoDB-url]: https://www.mongodb.com/
 [Mongoose.com]: https://img.shields.io/badge/Mongoose-red.svg
 [Mongoose-url]: https://mongoosejs.com/
-
+[Netlify.com]: https://img.shields.io/badge/Netlify-teal.svg
+[Netlify-url]: https://www.netlify.com/
+[fontawesome.com]: https://img.shields.io/badge/FontAwesome-blue.svg
+[fontawesome-url]: https://fontawesome.com/
+[Vite.dev]: https://img.shields.io/badge/Vite-violet.svg
+[Vite-url]: https://vitejs.dev/
